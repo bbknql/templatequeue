@@ -27,3 +27,4 @@ Pull requests are welcome. For major changes, please open an issue first.
 ## License
 
 [MIT](LICENSE)
+# Version: v1.0.0 - 2025-10-07
